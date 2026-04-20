@@ -1,6 +1,6 @@
-# Picksell - Modern SaaS Landing Page
+# Picksell - Modern Landing Page
 
-A premium, interactive landing page built with React, Framer Motion, and Tailwind CSS, featuring smooth tab transitions and dynamic card animations designed for a modern SaaS experience.
+A premium, interactive landing page built with React, Framer Motion, and Tailwind CSS, featuring smooth tab transitions and dynamic card animations designed for a modern experience.
 
 ## Getting Started
 
@@ -14,7 +14,9 @@ npm install
 npm start
 ```
 
-🔗 **[Live Demo](https://picksell-landing.netlify.app/)** *(Note: Replace with your actual deployment link)*
+🔗 **[Live Demo]
+(https://picksell-landing.netlify.app/)** 
+
 
 ---
 

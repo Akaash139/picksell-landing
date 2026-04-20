@@ -63,7 +63,7 @@ The interface uses the **DM Sans** typeface for a professional look and high-qua
 
 | Layer | Technology |
 | :--- | :--- |
-| **Framework** | React 18 + Create React App |
+| **Framework** | React 18 + JavaScript |
 | **Styling** | Tailwind CSS v3 |
 | **Animations** | Framer Motion |
 | **Typography** | DM Sans (Google Fonts) |

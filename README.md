@@ -17,6 +17,9 @@ npm start
 🔗 **[Live Demo]
 (https://picksell-landing.netlify.app/)** 
 
+<img width="1344" height="633" alt="image" src="https://github.com/user-attachments/assets/939757d5-dac3-4169-b51f-25d82d0cb36f" />
+
+
 
 ---
 

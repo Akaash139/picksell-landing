@@ -58,7 +58,6 @@ The interface uses the **DM Sans** typeface for a professional look and high-qua
 
 - [x] **Interactive Tab System**: Seamless switching between service categories with animated underlining.
 - [x] **Dynamic Card Animations**: Color-coded cards that shift and rotate based on the active tab.
-- [x] **Responsive Navigation**: Adaptive header with functional "Sign in" and "Get Started" buttons.
 - [x] **SVG Wave Background**: A custom-drawn vector background that adds depth to the hero section.
 - [x] **Fully Responsive**: Optimized for all screen sizes with tailwind-driven breakpoints.
 
